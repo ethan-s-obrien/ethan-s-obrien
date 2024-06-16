@@ -2,7 +2,7 @@
 - 👀 I’m interested in community work using code
 - 🌱 I’m currently learning beginner computer science
 - 💞️ I’m looking to collaborate on sites and apps
-- 📫 How to reach me theethanobrien@gmail.com
+- 📫 How to reach me eobrienit@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live in Matsue, Japan. 🏯 The home of Ruby. 💎
 
